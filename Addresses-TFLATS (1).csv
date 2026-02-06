@@ -1,8 +1,8 @@
 AddressLabel,Addr1,Addr2,City,Phone,PostalCode,State,SurveyImgName
-"#5550 Lexington, KY 40509",2344 Elkhorn Rd. ,Suite 100,Lexington,000-000-0000,40509,KY,
-#5601 TN,1306 Westlawn Blvd,,Murfreesboro,000-000-0000,37128,TN,
+"#5550 Lexington, KY 40509",2344 Elkhorn Rd. ,Suite 100,Lexington,,40509,KY,
+#5601 TN,1306 Westlawn Blvd,,Murfreesboro,,37128,TN,
 100,2300 Maitland Center Pkwy, Ste 306,Maitland,(407)506-2222,32751,FL,
-"Bradenton, FL  34207",2127 Cortez Rd. W,,Bradenton,0,34207,FL,
+"Bradenton, FL  34207",2127 Cortez Rd. W,,Bradenton,,34207,FL,
 Corporate,2300 Maitland Center Pkwy,Ste 306,Maitland,(407)506-2222,32751,FL,
 Tijuana Flats - 100 - Corporate,2300 Maitland Center Pkwy,Ste 306,Maitland,(407) 506-2222,32751,FL,
 Tijuana Flats - 102 - Hunt Club,444 S. Hunt Club Blvd,,Apopka,(407) 774-0402,32703,FL,OvationSurveySign_102HuntClub.pdf
@@ -94,11 +94,11 @@ Tijuana Flats - 5053 - Tallahassee,1400 Village Square Blvd,Unit 40,Tallahassee,
 Tijuana Flats - 5101 - Deland,305-1 International Speedway Blvd,,Deland,386-624-7060,32724,FL,OvationSurveySign_5101Deland.pdf
 Tijuana Flats - 5102 - Palm Coast,5890 State Rd. 100,,Palm Coast,,32164,FL,OvationSurveySign_5102PalmCoast.pdf
 Tijuana Flats - 5401 - Mobile,283 McGregor Ave,,Mobile,,36608,AL,OvationSurveySign_5401Mobile.pdf
-Tijuana Flats - 5450 - Pigeon Forge,3060 Teaster Ln,Unit 105,Pigeon Forge,999-999-9999,37863,TN,OvationSurveySign_5450PigeonForge.pdf
+Tijuana Flats - 5450 - Pigeon Forge,3060 Teaster Ln,Unit 105,Pigeon Forge,,37863,TN,OvationSurveySign_5450PigeonForge.pdf
 Tijuana Flats - 5501 - Apollo Beach,US Hwy 41 ,,Apollo Beach,,33572,FL,
-Tijuana Flats - 5550 - Lexington,2344 Elkhorn Rd. ,Suite 100,Lexington,000-000-0000,40509,KY,OvationSurveySign_5550Lexington.pdf
+Tijuana Flats - 5550 - Lexington,2344 Elkhorn Rd. ,Suite 100,Lexington,,40509,KY,OvationSurveySign_5550Lexington.pdf
 Tijuana Flats - 5555 - Louisville ,2105 S. Hurstbourne Pkwy,,Louisville ,,40220,KY,OvationSurveySign_5555Louisville.pdf
-Tijuana Flats - 5601 - Murfreesboro,1306 Westlawn Blvd,,Murfreesboro,999-999-9999,37128,TN,
+Tijuana Flats - 5601 - Murfreesboro,1306 Westlawn Blvd,,Murfreesboro,,37128,TN,
 Tijuana Flats - 5701 - Holly Springs,161 Grand Hill Place,,Holly Springs,(919) 629-7558,27540,NC,OvationSurveySign_5701HollySprings.pdf
 Tijuana Flats - 5702 - Cary,7165 O'Kelly Chapel Rd,,Cary,(919) 629-3200,27519,NC,OvationSurveySign_5702Parkside.pdf
 Tijuana Flats - Store 172,651 Nautica Dr,,Jacksonville,(904) 738-7642,32218,FL,
